@@ -11,7 +11,7 @@ cd cuddly-fiesta
 
 bundle install
 
-./scan.rb $PATH_TO_YOUR_LIST_OF_HOSTS
+./scan.rb /path/to/ips.txt
 ```
 
 ```
