@@ -13,8 +13,8 @@ brew install chromedriver
 ### Linux
 
 1. Download from [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-2. Extract to `/usr/local/bin/chromedriver'
-3. Symlink to `/usr/bin/chromedriver'
+2. Extract to `/usr/local/bin/chromedriver`
+3. Symlink to `/usr/bin/chromedriver`
 
 ## Getting Started
 
