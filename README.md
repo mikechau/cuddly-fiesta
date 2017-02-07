@@ -2,7 +2,21 @@
 
 Johnny you own me some beers.
 
-## Usage
+## Requirements
+
+### OSX
+
+```
+brew install chromedriver
+```
+
+### Linux
+
+1. Download from [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+2. Extract to `/usr/local/bin/chromedriver'
+3. Symlink to `/usr/bin/chromedriver'
+
+## Getting Started
 
 ```
 git clone https://github.com/mikechau/cuddly-fiesta
