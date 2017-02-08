@@ -37,7 +37,7 @@ class Scanner
 
       visit(uri)
  
-      screenshot_path = "#{__dir__}/screenshots/#{uri.host}.png"
+      screenshot_path = "#{__dir__}/screenshots/#{uri.host}_#{uri.port}.png"
 
       save_screenshot(screenshot_path)
 
